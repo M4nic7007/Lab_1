@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="button_text_at1">Página 1</string>
+    <string name="p_gina_at1">Página AT1</string>
+    <string name="at1">Butão 1</string>
+    <string name="at2">Butão 2</string>
+    <string name="main">Página Inícial</string>
+    <string name="mariogomes">Nome: Mário Gomes</string>
+    <string name="numero24685">Número: 24685</string>
+    <string name="email_gomesmario">E-mail: gomesmario@ipvc.pt</string>
+    <string name="p_gina_at2">Página AT2</string>
+
+
+</resources>
